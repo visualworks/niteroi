@@ -1,0 +1,3 @@
+[submodule "src/henriquemattos.eu"]
+	path = src/henriquemattos.eu
+	url = git@github.com:visualworks/henriquemattos.eu.git
