@@ -4,3 +4,9 @@
 [submodule "web/henriquemattos.eu"]
 	path = web/henriquemattos.eu
 	url = git@github.com:visualworks/henriquemattos.eu.git
+[submodule "web/brasilamerica.com.br"]
+	path = web/brasilamerica.com.br
+	url = git@github.com:visualworks/brasilamerica.com.br.git
+[submodule "web/kondor.com.br"]
+	path = web/kondor.com.br
+	url = git@github.com:visualworks/git@github.com:visualworks/kondor.com.br.git
